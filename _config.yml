@@ -2,9 +2,9 @@
 title: A blog about lorem ipsum dolor sit amet
 description: A blog about lorem ipsum dolor sit amet
 #baseurl: "/" # the subpath of your site, e.g. /blog
-host:    dtdoom.com
-port:    80
-url: http://dtdoom.com # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+host: "dtdoom.com"
+port: 80
+url: "http://dtdoom.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: LinGH
